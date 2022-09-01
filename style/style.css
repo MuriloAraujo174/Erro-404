@@ -1,0 +1,19 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+background-color: aqua;
+}
+
+.container {
+max-width: 500px;
+max-height: 400px;
+
+margin: 60px auto;
+}
+
+hr {
+border-color: black;
+
+}
